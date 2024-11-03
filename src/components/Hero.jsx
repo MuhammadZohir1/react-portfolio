@@ -7,7 +7,7 @@ const container = (delay) => ({
   visible: {
     x: 0,
     opacity: 1,
-    transition: { duration: 0.7, delay: delay },
+    transition: { duration: 0.5, delay: delay },
   },
 });
 
