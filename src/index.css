@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Inter", sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+  }
+  th, td {
+      font-size: 14px;
+      padding: 6px;
+  }
+}
+@media screen and (max-width: 480px) {
+  th, td {
+      font-size: 12px;
+      padding: 4px;
+  }
+}
