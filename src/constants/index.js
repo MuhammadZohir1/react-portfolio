@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated web developer with a passion for cre
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2025 - Present",
     role: "Senior Full Stack Developer",
     company: "Google Inc.",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
@@ -70,8 +70,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Oromgoh : Tinchlik MFY  Yosh Avlod Ko'cha 201-uy",
-  phoneNo: "+998 99 280 51 56 ",
+  address: "Oromgoh : Tinchlik MFY,  Yosh Avlod Ko'cha, 201-uy",
+  phoneNo: "+998-99-280-51-56 ",
   email: "muhammadzohirmalikjanov47@gmail.com",
   // MalikjanoFF
 };

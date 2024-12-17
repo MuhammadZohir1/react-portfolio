@@ -1,1 +1,0 @@
-<!-- Portfolio Muhammad Zohir Malikjanov tomonidan 3-Noyabr 2024-Yil Soat ; 17:36 da yakunlandi -->
